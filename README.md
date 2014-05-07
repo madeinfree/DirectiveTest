@@ -1,4 +1,2 @@
 DirectiveTest
 =============
-
-DirectiveTest Demo
